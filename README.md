@@ -39,11 +39,9 @@ Interactive visuals were created for:
 ---
 
 ## 📊 Report Snapshots (Power BI Desktop)  
-🖼️ *Include visuals or screenshots of the dashboard here*  
-> Replace these with actual images once uploaded to your repository:  
-- ![Revenue Overview](path/to/image1.png)  
-- ![Customer Segmentation](path/to/image2.png)  
-- ![Regional Insights](path/to/image3.png)  
+🖼️<img width="1442" height="818" alt="1" src="https://github.com/user-attachments/assets/9b302cb0-578f-47bb-ad04-5ad569fc3983" />
+<img width="1441" height="818" alt="2" src="https://github.com/user-attachments/assets/93078bd1-993f-4d85-998a-f56630e66c72" />
+
 
 ---
 
