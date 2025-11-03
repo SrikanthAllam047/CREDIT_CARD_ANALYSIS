@@ -1,4 +1,4 @@
-# 💳 Credit Card Transaction Analysis Dashboard  
+# 💳 Credit Card Transaction Analysis Dashboard (POWER BI & SQL)
 
 ## 🧭 Project Overview  
 This project presents a **Power BI Dashboard** that provides insights into **credit card transactions**, **customer spending behavior**, and **revenue patterns**.  
